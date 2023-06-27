@@ -1,0 +1,23 @@
+{
+  "name": "file-manager",
+  "version": "1.0.0",
+  "description": "nodejs-task",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShArPman13/file-manager.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "ShArPman13",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShArPman13/file-manager/issues"
+  },
+  "homepage": "https://github.com/ShArPman13/file-manager#readme"
+}
